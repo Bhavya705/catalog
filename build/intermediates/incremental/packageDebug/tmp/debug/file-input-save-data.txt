@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Dec 13 20:33:59 IST 2019
+0.baseType=DIRECTORY
+0.base=/Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/build/intermediates/transforms/dexMerger/debug/0
+0.path=classes.dex
+0.set=DEX
+count=1

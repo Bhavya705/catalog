@@ -1,0 +1,217 @@
+-- Merging decision tree log ---
+application
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:25:3-68:17
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:25:3-68:17
+MERGED from [:lib] /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-20
+MERGED from [:lib] /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/191c3623ee94c13565ab8ccaf8830b0d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/191c3623ee94c13565ab8ccaf8830b0d/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/26af5d398ecf976e6222e785d3606034/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/26af5d398ecf976e6222e785d3606034/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/191c3623ee94c13565ab8ccaf8830b0d/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:31:5-31
+	android:label
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:29:5-41
+	android:roundIcon
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:30:5-50
+	android:icon
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:28:5-39
+	android:allowBackup
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:27:5-31
+	android:theme
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:32:5-54
+	android:name
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:26:5-71
+meta-data#io.material.catalog.application.componentOverride
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:33:5-35:57
+	android:value
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:35:7-55
+	android:name
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:34:7-71
+manifest
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:18:1-70:12
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:18:1-70:12
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:18:1-70:12
+MERGED from [com.google.dagger:dagger-android-support:2.23.1] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-support-2.23.1.aar/a5880d6eb3dc232af8c33052576da257/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.dagger:dagger-android:2.23.1] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-2.23.1.aar/1dc8d4b1a7b37264a35e753736314130/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/449bb468edd7d906bdd697dd4d2fca40/AndroidManifest.xml:17:1-22:12
+MERGED from [:lib] /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/recyclerview-selection-1.0.0.aar/765fc4d3e587bf4af536e910155d3ee3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/6e071e7fd2bcb679d1e4cc5f6e8f7595/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/d9649527ed5aceca4ba3482f66c8532c/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/a26bb0318ecdf69a60ca1fcc9dab01d9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/63a566e53cced4056eba78b770f19595/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/13a523b5bd0513182ef2f85464919405/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/4327ebb479f35435db270aac43821a5b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/6b0f4fc7bdacb5c7596a0ba1d8f86c8a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/c1d9b7f1e29e82b8c8c326103a70daf7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/f3432b40fa8c233862aa9eafe4255b2d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e575a773605ada636b8d2ddf8de970cc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/4d47f50797966c81031a8d55db9f324a/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8c6f92c6657721116cbe3368a1847f86/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d0d69089adbb36132430d7956a9603c2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/0c514ebef568f686686cc18d74e07046/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/100e14eb616c07e7f83bc40fa85ad04b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/191c3623ee94c13565ab8ccaf8830b0d/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/dea20d7e10ef9c4f9f5db15bfc7d1722/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/26af5d398ecf976e6222e785d3606034/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/12ec9b8e8a0e3b88f7084f8197c76d96/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c2344f98cf91d6da696558306537b1c8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/0803c3b7fde74bc9946f5143b1a78644/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7990b184bb9d50d90d1d95786fef7220/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1f52014ceab333a5a14a95710a8a3164/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b7661371e324dd218f9fca38f95153d9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/5a05cbdcb9fe9c077342d3ce8973cec5/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:18:1-70:12
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:18:1-70:12
+	package
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:19:3-32
+	android:versionName
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:21:3-28
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:18:11-69
+	android:versionCode
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:20:3-26
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:23:3-15
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:23:3-15
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:23:3-15
+MERGED from [com.google.dagger:dagger-android-support:2.23.1] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-support-2.23.1.aar/a5880d6eb3dc232af8c33052576da257/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android-support:2.23.1] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-support-2.23.1.aar/a5880d6eb3dc232af8c33052576da257/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.23.1] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-2.23.1.aar/1dc8d4b1a7b37264a35e753736314130/AndroidManifest.xml:20:5-44
+MERGED from [com.google.dagger:dagger-android:2.23.1] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/jetified-dagger-android-2.23.1.aar/1dc8d4b1a7b37264a35e753736314130/AndroidManifest.xml:20:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/449bb468edd7d906bdd697dd4d2fca40/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/449bb468edd7d906bdd697dd4d2fca40/AndroidManifest.xml:20:5-43
+MERGED from [:lib] /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-44
+MERGED from [:lib] /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/lib/build/intermediates/library_manifest/debug/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/recyclerview-selection-1.0.0.aar/765fc4d3e587bf4af536e910155d3ee3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview-selection:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/recyclerview-selection-1.0.0.aar/765fc4d3e587bf4af536e910155d3ee3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/6e071e7fd2bcb679d1e4cc5f6e8f7595/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/appcompat-1.1.0.aar/6e071e7fd2bcb679d1e4cc5f6e8f7595/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/d9649527ed5aceca4ba3482f66c8532c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/cardview-1.0.0.aar/d9649527ed5aceca4ba3482f66c8532c/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/a26bb0318ecdf69a60ca1fcc9dab01d9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.1.0.aar/a26bb0318ecdf69a60ca1fcc9dab01d9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/63a566e53cced4056eba78b770f19595/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/transition-1.2.0.aar/63a566e53cced4056eba78b770f19595/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/13a523b5bd0513182ef2f85464919405/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/appcompat-resources-1.1.0.aar/13a523b5bd0513182ef2f85464919405/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/4327ebb479f35435db270aac43821a5b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/vectordrawable-animated-1.1.0.aar/4327ebb479f35435db270aac43821a5b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/6b0f4fc7bdacb5c7596a0ba1d8f86c8a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/vectordrawable-1.1.0.aar/6b0f4fc7bdacb5c7596a0ba1d8f86c8a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/c1d9b7f1e29e82b8c8c326103a70daf7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/viewpager2-1.0.0.aar/c1d9b7f1e29e82b8c8c326103a70daf7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/f3432b40fa8c233862aa9eafe4255b2d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/f3432b40fa8c233862aa9eafe4255b2d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e575a773605ada636b8d2ddf8de970cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0.aar/e575a773605ada636b8d2ddf8de970cc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/4d47f50797966c81031a8d55db9f324a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/recyclerview-1.1.0.aar/4d47f50797966c81031a8d55db9f324a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8c6f92c6657721116cbe3368a1847f86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/8c6f92c6657721116cbe3368a1847f86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d0d69089adbb36132430d7956a9603c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/d0d69089adbb36132430d7956a9603c2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/0c514ebef568f686686cc18d74e07046/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/0c514ebef568f686686cc18d74e07046/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/100e14eb616c07e7f83bc40fa85ad04b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/100e14eb616c07e7f83bc40fa85ad04b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/191c3623ee94c13565ab8ccaf8830b0d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/191c3623ee94c13565ab8ccaf8830b0d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/dea20d7e10ef9c4f9f5db15bfc7d1722/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0.aar/dea20d7e10ef9c4f9f5db15bfc7d1722/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/26af5d398ecf976e6222e785d3606034/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/26af5d398ecf976e6222e785d3606034/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/12ec9b8e8a0e3b88f7084f8197c76d96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.1.0.aar/12ec9b8e8a0e3b88f7084f8197c76d96/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c2344f98cf91d6da696558306537b1c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/c2344f98cf91d6da696558306537b1c8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/0803c3b7fde74bc9946f5143b1a78644/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/0803c3b7fde74bc9946f5143b1a78644/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7990b184bb9d50d90d1d95786fef7220/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0.aar/7990b184bb9d50d90d1d95786fef7220/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1f52014ceab333a5a14a95710a8a3164/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/1f52014ceab333a5a14a95710a8a3164/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b7661371e324dd218f9fca38f95153d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/b7661371e324dd218f9fca38f95153d9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/5a05cbdcb9fe9c077342d3ce8973cec5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/bhavyavarmora/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/5a05cbdcb9fe9c077342d3ce8973cec5/AndroidManifest.xml:20:5-44
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:23:3-15
+INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:23:3-15
+	android:targetSdkVersion
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:23:3-15
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:23:3-15
+		INJECTED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml
+activity#io.material.catalog.main.MainActivity
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:37:5-43:16
+	android:name
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:38:7-40
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:39:7-42:23
+action#android.intent.action.MAIN
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:40:9-60
+	android:name
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:40:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:41:9-68
+	android:name
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:41:19-66
+activity#io.material.catalog.elevation.ElevationOverlayDemoActivity
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:44:5-48:50
+	android:label
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:47:7-58
+	android:exported
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:46:7-31
+	android:theme
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:48:7-48
+	android:name
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:45:7-61
+activity#io.material.catalog.topappbar.TopAppBarActionBarDemoActivity
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:49:5-53:65
+	android:label
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:52:7-61
+	android:exported
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:51:7-31
+	android:theme
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:53:7-63
+	android:name
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:50:7-63
+activity#io.material.catalog.topappbar.TopAppBarDarkActionBarDemoActivity
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:54:5-58:79
+	android:label
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:57:7-66
+	android:exported
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:56:7-31
+	android:theme
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:58:7-77
+	android:name
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:55:7-67
+activity#io.material.catalog.topappbar.TopAppBarScrollingTransparentStatusDemoActivity
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:59:5-63:63
+	android:label
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:62:7-72
+	android:exported
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:61:7-31
+	android:theme
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:63:7-61
+	android:name
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:60:7-80
+activity#io.material.catalog.card.CardSelectionModeActivity
+ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:64:5-66:32
+	android:exported
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:66:7-30
+	android:name
+		ADDED from /Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/java/io/material/catalog/AndroidManifest.xml:65:7-53

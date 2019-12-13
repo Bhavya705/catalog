@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/catalog.iml" filepath="$PROJECT_DIR$/catalog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demos/demos.iml" filepath="$PROJECT_DIR$/../demos/demos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demos/java/demos-java.iml" filepath="$PROJECT_DIR$/../demos/java/demos-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demos/java/io/demos-java-io.iml" filepath="$PROJECT_DIR$/../demos/java/io/demos-java-io.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demos/java/io/material/demos-java-io-material.iml" filepath="$PROJECT_DIR$/../demos/java/io/material/demos-java-io-material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demos/java/io/material/demo/demos-java-io-material-demo.iml" filepath="$PROJECT_DIR$/../demos/java/io/material/demo/demos-java-io-material-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demos/java/io/material/demo/shrine/demos-java-io-material-demo-shrine.iml" filepath="$PROJECT_DIR$/../demos/java/io/material/demo/shrine/demos-java-io-material-demo-shrine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demos/java/io/material/demo/shrine/filters/demos-java-io-material-demo-shrine-filters.iml" filepath="$PROJECT_DIR$/../demos/java/io/material/demo/shrine/filters/demos-java-io-material-demo-shrine-filters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demos/java/io/material/demo/shrine/products/demos-java-io-material-demo-shrine-products.iml" filepath="$PROJECT_DIR$/../demos/java/io/material/demo/shrine/products/demos-java-io-material-demo-shrine-products.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demos/java/io/material/demo/shrine/theme/demos-java-io-material-demo-shrine-theme.iml" filepath="$PROJECT_DIR$/../demos/java/io/material/demo/shrine/theme/demos-java-io-material-demo-shrine-theme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../lib/lib.iml" filepath="$PROJECT_DIR$/../lib/lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../material-components-android-master.iml" filepath="$PROJECT_DIR$/../material-components-android-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../material-theme-builder/material-theme-builder.iml" filepath="$PROJECT_DIR$/../material-theme-builder/material-theme-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/testing.iml" filepath="$PROJECT_DIR$/../testing/testing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/java/testing-java.iml" filepath="$PROJECT_DIR$/../testing/java/testing-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/java/com/testing-java-com.iml" filepath="$PROJECT_DIR$/../testing/java/com/testing-java-com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/java/com/google/testing-java-com-google.iml" filepath="$PROJECT_DIR$/../testing/java/com/google/testing-java-com-google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/java/com/google/android/testing-java-com-google-android.iml" filepath="$PROJECT_DIR$/../testing/java/com/google/android/testing-java-com-google-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/java/com/google/android/material/testing-java-com-google-android-material.iml" filepath="$PROJECT_DIR$/../testing/java/com/google/android/material/testing-java-com-google-android-material.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/java/com/google/android/material/testapp/testing-java-com-google-android-material-testapp.iml" filepath="$PROJECT_DIR$/../testing/java/com/google/android/material/testapp/testing-java-com-google-android-material-testapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/java/com/google/android/material/testapp/animation/testing-java-com-google-android-material-testapp-animation.iml" filepath="$PROJECT_DIR$/../testing/java/com/google/android/material/testapp/animation/testing-java-com-google-android-material-testapp-animation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/java/com/google/android/material/testapp/base/testing-java-com-google-android-material-testapp-base.iml" filepath="$PROJECT_DIR$/../testing/java/com/google/android/material/testapp/base/testing-java-com-google-android-material-testapp-base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/java/com/google/android/material/testapp/custom/testing-java-com-google-android-material-testapp-custom.iml" filepath="$PROJECT_DIR$/../testing/java/com/google/android/material/testapp/custom/testing-java-com-google-android-material-testapp-custom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../testing/java/com/google/android/material/testapp/theme/testing-java-com-google-android-material-testapp-theme.iml" filepath="$PROJECT_DIR$/../testing/java/com/google/android/material/testapp/theme/testing-java-com-google-android-material-testapp-theme.iml" />
+    </modules>
+  </component>
+</project>

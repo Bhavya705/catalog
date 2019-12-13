@@ -1,0 +1,4 @@
+#Fri Dec 13 20:33:59 IST 2019
+base.0=/Users/bhavyavarmora/Documents/demoprojects/material-components-android-master/catalog/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
